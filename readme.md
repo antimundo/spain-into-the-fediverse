@@ -4,7 +4,7 @@ Este es un listado de colectivos españoles que abandonan Twitter/X y entran al 
 
 Este listado es de dominio público y colaborativo, puedes aportar a la lista en GitHub, o copiarla y expandirla por tu cuenta.
 
-Actualmente está mantenida por [Antimundo](antimundo.es), intentando mantener los siguientes criterios:
+Actualmente está mantenida por [Antimundo](https://antimundo.es/), intentando mantener los siguientes criterios:
 
 - Esta no es una lista de individuos, es una lista de colectivos, asociaciones, empresas, organismos públicos, universidades...
 - Esta lista solo recoge colectivos de España con sede en España.
@@ -41,7 +41,7 @@ Actualmente está mantenida por [Antimundo](antimundo.es), intentando mantener l
 | 🔒 | [El Salto Diario](https://www.elsaltodiario.com/) | [@ElSaltoDiario @mastodon.social](https://mastodon.social/@ElSaltoDiario) | Medio periodístico autogestionado | [Web con enlace a su Mastodon](https://www.elsaltodiario.com/) |
 | 🔒 | [Izquierda Unida](https://izquierdaunida.org/) | [@izquierda_unida @mastodon.social](https://mastodon.social/@izquierda_unida) | Federación de partidos políticos de izquierdas | [Mastodon verificado](https://mastodon.social/@izquierda_unida) y [web con enlace a su Mastodon](https://izquierdaunida.org/) |
 | 🔒 | [Libreria Aldarull](https://aldarull.org/) | [@aldarull @mastodont.cat](https://mastodont.cat/@aldarull) | Librería anarquista catalana | [Web con enlace a su Mastodon](https://aldarull.org/) |
-| 🔒 | [MediaLab Invisible](lainvisible.net) | [@medialab_invisible @xarxa.cloud](https://xarxa.cloud/@medialab_invisible) | Espacio por el software libre en La Casa Invisible en Málaga | [GitHub](https://codeberg.org/medialab-invisible) y [Codeberg](https://codeberg.org/medialab-invisible) con enlace a su Mastodon |
+| 🔒 | [MediaLab Invisible](https://lainvisible.net/) | [@medialab_invisible @xarxa.cloud](https://xarxa.cloud/@medialab_invisible) | Espacio por el software libre en La Casa Invisible en Málaga | [GitHub](https://codeberg.org/medialab-invisible) y [Codeberg](https://codeberg.org/medialab-invisible) con enlace a su Mastodon |
 | 🔒 | [The conversation España](https://theconversation.com/es) | [@theconversationes @newsie.social](https://newsie.social/@theconversationes) | Medio periodístico de divulgación científica y académica sin ánimo de lucro | [Mastodon verificado](https://newsie.social/@theconversationes) y [web con enlace a su Mastodon](https://desdelamina.net/) |
 | 🔒 | [Pantube TV](https://pantube.tv/) | [@pantube @mas.to](https://mas.to/@pantube) | Colectivo independiente de apoyo, difusión y ayuda mutua | [Web con enlace a su Mastodon](https://pantube.tv/linktree/) |
 
